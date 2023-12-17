@@ -13,11 +13,11 @@ A UIKit based weather app with Subscription integration
 - Full programmatic UI
 - RevenueCat integration for In App Purchases and PayWalls
 - Apple native WeatherKit integration
-  
-## Authors
-
-* **[Mert Ozseven](https://github.com/mertozseven/)** - *Junior iOS Developer*
 
 ## Demonstration
 
 https://github.com/mertozseven/Hyper-Weather/assets/75128197/2ae42811-5180-49d4-a3b0-925667e6ee62
+  
+## Authors
+
+* **[Mert Ozseven](https://github.com/mertozseven/)** - *Junior iOS Developer*
